@@ -13,7 +13,7 @@ This project is a clone of Shoppify website. Shoppify is an shopping application
 4. Backgrounds and borders etc.
 
 ## Project Link
-![Link](https://shoppifyclone.netlify.app)
+https://shoppifyclone.netlify.app
 
 
 ## Time taken to complete the project
